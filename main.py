@@ -9,7 +9,7 @@ from utils import *
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Go SHCN for bundle recommendation")
+    parser = argparse.ArgumentParser(description="Go UHBR for bundle recommendation")
     parser.add_argument("--lr", type=float, default=5e-3, help="the learning rate")
     parser.add_argument(
         "--dataset",
