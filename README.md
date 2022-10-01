@@ -1,5 +1,5 @@
 # UHBR
-> Code and Datasets for "Unifying Multi-associations through Hypergraph for Bundle Recommendation"
+> Code and Datasets for "Unifying Multi-associations through Hypergraph for Bundle Recommendation" https://doi.org/10.1016/j.knosys.2022.109755
 
 
 # Environment Requirement
